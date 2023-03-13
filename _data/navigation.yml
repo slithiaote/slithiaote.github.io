@@ -1,0 +1,13 @@
+main:
+  - title: "Accueil"
+    url: /
+  - title: "CV"
+    url: /assets/cv_lithiaote.pdf
+  - title: "Recherche"
+    url: /research/
+  - title: "Publications"
+    url: https://orcid.org/0000-0002-4977-4969
+  - title: "Enseignement"
+    url: /enseignement
+  - title: "Informatique"
+    url: /informatique/

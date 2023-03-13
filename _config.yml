@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Sébastien Li-Thiao-Té"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Associate Professor of mathematics at Université Sorbonne Paris Nord"
+  bio              : "Maître de conférence en mathématiques appliquées à l'Université Sorbonne Paris Nord"
   # location         : "Somewhere"
   email            :
   links:
@@ -131,6 +131,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - title: "Test title"
+      text: "Some text"
 
 # Site Footer
 footer:
@@ -279,17 +281,35 @@ compress_html:
   ignore:
     envs: development
 
+# Title from headings plugin (default in github)
+titles_from_headings:
+  enabled: true
+  strip_title: true
 
 # Defaults
 defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
+      classes: wide
       author_profile: true
-      read_time: true
+      # read_time: true
       comments: # true
-      share: true
+      # share: true
       related: true
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single_tagtop
+      classes: wide
+      author_profile: true
+    
+collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
+
