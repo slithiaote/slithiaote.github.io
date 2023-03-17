@@ -10,7 +10,7 @@ classes: wide
   - thèse de [Safaa Al Ali](/research/safaa), 
   - [Electricity consumption in Tetuan](https://jovian.com/slithiaote/zerotogbms-course-project-tetuan) (Jovian course project + [certificate](https://jovian.com/certificate/MFQTOOBSHE))
 - **R** : thèse de doctorat, postdoctorat, enseignement
-- **Matlab** : [traitement du signal RPE](/research/rpe)
+- **Matlab** : [traitement du signal RPE](https://github.com/slithiaote/epr-lorentz)
 - **Jupyter** / **Rmarkdown**
 {% comment %} 
 - Spark
