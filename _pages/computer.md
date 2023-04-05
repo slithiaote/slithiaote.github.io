@@ -25,6 +25,7 @@ classes: wide
 - **Git**, **GitHub**, **GitLab**
 - **Docker** : création d'images, déploiement sur Gitlab Container Registry, Docker-in-Docker
 - **CI/CD** (Intégration continue / déploiement continu) avec Gitlab
+- **Bazel/Please** (Build automation software)
 
 ## Développement Web
 - **HTML** / **CSS**
