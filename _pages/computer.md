@@ -19,7 +19,7 @@ classes: wide
 ## Formats de données
 - **JSON** avec python et OCaml/yojson
 - **XML** : parseur avec la librairie [expat](https://libexpat.github.io/) (C) et interface avec R
-- **SQL** : [SQL Examples](https://lithiaote.pages.math.cnrs.fr/sql-examples-with-lepton/)
+- **SQL** : [SQL Examples with Lepton](https://lithiaote.pages.math.cnrs.fr/sql-examples-with-lepton/)
 
 ## Développement d'applications
 - **Git**, **GitHub**, **GitLab**

@@ -44,6 +44,11 @@ langages de programmation (C, R, Python, Ocaml, Matlab, etc.) et de s’affranch
 Ainsi, le format de fichier texte retenu permet de garantir que les « documents exécutables » restent utilisables à très long terme, 
 sans la nécessité de maintenir une infrastructure logicielle lourde.
 
+Démos
+- [SQL Examples with Lepton](https://lithiaote.pages.math.cnrs.fr/sql-examples-with-lepton/)
+- Analyse de spectres RPE en Matlab sur [Github](https://github.com/slithiaote/epr-lorentz), 
+par exemple [cette page](https://github.com/slithiaote/epr-lorentz/blob/main/plz-out/gen/Code/LorentzModelDeri.md)
+
 ## Intégration continue pour la recherche reproductible
 
 L'intégration continue comme un moyen de garantir l’exécution correcte d'une analyse de données, dans un environnement contrôlé. 
