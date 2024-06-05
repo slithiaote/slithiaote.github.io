@@ -11,3 +11,6 @@ main:
     url: /enseignement
   - title: "Informatique"
     url: /informatique/
+  - title: "Articles R/DuckDB"
+    url: /duckdb/
+
