@@ -15,7 +15,7 @@ Ceci permet d'apporter des éléments de justification pour des recommandations 
 
 (Work in progress)
 
-[ParquetCompression.html](ParquetCompression.html)
+[ParquetCompression.html]({% link /duckdb_html/ParquetCompression.html %})
 
 
 
