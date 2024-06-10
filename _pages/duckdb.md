@@ -17,5 +17,13 @@ Ceci permet d'apporter des éléments de justification pour des recommandations 
 
 [ParquetCompression.html]({% link /duckdb_html/ParquetCompression.html %})
 
+Est-ce que DuckDB optimise automatiquement ? 
+
+- éviter un calcul quand la colonne n'est pas sélectionnée : [oui]({% link /duckdb_html/20240610_BenchmarkMutateSelect.html %})
+
+
+
+
+
 
 

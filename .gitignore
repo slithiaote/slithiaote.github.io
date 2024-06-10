@@ -3,3 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+_pages/duckdb.md.backup
+duckdb_html/*.Rmd
+duckdb_html/**/*.png
+duckdb_html/*.md
