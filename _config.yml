@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Sébastien Li-Thiao-Té"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Maître de conférence en mathématiques appliquées à l'Université Sorbonne Paris Nord"
+  bio              : "Maître de conférence / Administrateur INSEE"
   # location         : "Somewhere"
   email            :
   links:
@@ -134,8 +134,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - title: "Test title"
-      text: "Some text"
 
 # Site Footer
 footer:

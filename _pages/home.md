@@ -1,7 +1,22 @@
 ---
 permalink: /
-title: "Maître de conférence en mathématiques appliquées"
+title: ""
 --- 
+
+# Service statistique public (depuis 2023)
+
+- Détachement à la [Dares](https://dares.travail-emploi.gouv.fr/) (2023-2025), Département Formation professionnelle et Alternance
+  - SI [Agora](https://travail-emploi.gouv.fr/agora-la-plateforme-dechange-de-donnees-de-la-formation-professionnelle) sur la formation professionnelle (CPF, formations financées par France Travail et les Conseils régionaux, etc.)
+  - Qualification de la nouvelle source de donnée
+  - Construction d'un appariement des dossiers entre la base Agora et la base Brest (précédente base)
+  - Production d'une base statistique expérimentale et mise à disposition de bases extraites pour les SESE
+  - Participation aux comités de suivi opérationnels Caisse des Dépots / Dgefp / Dares et aux échanges avec les producteurs de données (France Travail, Conseils régionaux)
+  - Présentation des travaux au comité stratégique national Agora
+  - Suivi des conventions de service et d'échange de données avec la Caisse des Dépôts et Consignations (gestionnaire du SI)
+- Concours interne Administrateur de l'INSEE (2025)
+- Formation à l'ENSAE (2025-2026)
+
+# Maître de conférences en mathématiques appliquées (2010-2023)
 
 **Habilité à diriger des recherches** <br />
 **Co-responsable de l'équipe [Mathématiques pour la Biologie et les Images](https://www.math.univ-paris13.fr/laga/index.php/fr/mathbio)**
@@ -15,7 +30,7 @@ l'outil informatique. Or le traitement des données repose trop souvent sur des 
 On cherche donc à comprendre comment démontrer rigoureusement un énoncé scientifique par des preuves obtenues par le traitement numérique de données expérimentales. 
 {% endcomment %}
 
-Mon travail concerne actuellement :
+Mon travail a porté sur :
 
 - la recherche reproductible et la science ouverte : je développe le [logiciel Lepton](https://github.com/slithiaote/lepton) 
 et je fais partie du [Comité national pour la Science Ouverte](https://www.ouvrirlascience.fr/),

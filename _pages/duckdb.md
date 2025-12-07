@@ -5,8 +5,8 @@ permalink: /duckdb/
 classes: wide
 ---
 
-A la Dares, je travaille sur les données du SI Agora sur la formation professionnelle en France. 
-Ce sont des données assez volumineuse, qui dépassent la mémoire vive de mon poste
+Lors de mon passage à la Dares (2023-2025), j'ai travaillé sur les données du SI Agora sur la formation professionnelle en France. 
+Ce sont des données volumineuses, qui dépassent la mémoire vive d'un poste de travail standard.
 (~ 100-800 millions de lignes pour certaines tables).
 
 Pour pouvoir analyser ces données sur un ordinateur portable, il faut parfois ruser. 

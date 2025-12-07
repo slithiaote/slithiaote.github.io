@@ -9,7 +9,7 @@ classes: wide
 - **Python** / Pandas / OpenCV / scikit-learn
   - thèse de [Safaa Al Ali](/research/safaa), 
   - [Electricity consumption in Tetuan](https://jovian.com/slithiaote/zerotogbms-course-project-tetuan) (Jovian course project + [certificate](https://jovian.com/certificate/MFQTOOBSHE))
-- **R** : thèse de doctorat, postdoctorat, enseignement
+- **R** : dplyr/DuckDB sur bases de données volumineuses (100 millions de lignes), contributeur [UtilitR](https://book.utilitr.org/03_Fiches_thematiques/Fiche_duckdb.html)
 - **Matlab** : [traitement du signal RPE](https://github.com/slithiaote/epr-lorentz)
 - **Jupyter** / **Rmarkdown**
 {% comment %} 
@@ -19,7 +19,10 @@ classes: wide
 ## Formats de données
 - **JSON** avec python et OCaml/yojson
 - **XML** : parseur avec la librairie [expat](https://libexpat.github.io/) (C) et interface avec R
-- **SQL** : [SQL Examples with Lepton](https://lithiaote.pages.math.cnrs.fr/sql-examples-with-lepton/)
+- **SQL** : moteur DuckDB
+{% comment %} 
+[SQL Examples with Lepton](https://lithiaote.pages.math.cnrs.fr/sql-examples-with-lepton/)
+{% endcomment %} 
 
 ## Développement d'applications
 - **Git**, **GitHub**, **GitLab**
